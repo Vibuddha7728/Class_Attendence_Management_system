@@ -11,4 +11,4 @@ Technologies Used
 - Programming Language:  Java 
 - Database: MySQL
 
-  Open the Browser:http: //127.0.0.1:3000/Class_management_system-main/Class_management/home/home.html 
+  Open the Browser:http:  http://127.0.0.1:3000/Class_management_system-main/Class_management/index/index.html
